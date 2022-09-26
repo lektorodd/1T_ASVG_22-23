@@ -4,7 +4,7 @@
 
 ## Tips
 
-Viss du vil lasta ned filene og bruka dei sjølv kan det gjerast enkelt i Jupyter Lab (v. > 3.3.0). 
+Viss du vil lasta ned filene og bruka dei sjølv kan det gjerast enkelt i Jupyter Lab (v. > 3.3.0) ⬇
 
 ### 1. Raw
 
