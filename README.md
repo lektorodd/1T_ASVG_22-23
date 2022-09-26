@@ -1,6 +1,6 @@
 # 1T Amalie Skram vgs. 22-23
 
-Her finn du filer brukt i 1T.
+💻 Her finn du python- og jupyterfiler brukt i 1T.
 
 ## Tips
 
