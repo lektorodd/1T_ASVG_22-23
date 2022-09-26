@@ -2,6 +2,8 @@
 
 💻 Her finn du python- og jupyterfiler brukt i 1T.
 
+- 👨‍🏫 [Kursfiler](https://github.com/lektorodd/1T_ASVG_22-23/tree/main/Kursfiler)
+
 ## :bulb: Tips
 
 Viss du vil lasta ned filene og bruka dei sjølv kan det gjerast enkelt i Jupyter Lab (v. > 3.3.0) ⬇
